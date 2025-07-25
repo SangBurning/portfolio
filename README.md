@@ -24,8 +24,8 @@
 
 ## 🔗 빠른 바로가기
 
-- [학위 논문 바로가기](./Publications_and_Theses/Your_Thesis_Folder)  
-- [최신 포스터 보기](./Posters/Recent_Poster_Folder)
+- [석사 학위 논문 바로가기](./Publications_and_Theses/Master's_Thesis_VR_Putting)
+- [해외 포스터 발표 바로가기](./Posters/VSS)
 
 ---
 
