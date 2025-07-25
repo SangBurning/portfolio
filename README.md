@@ -37,7 +37,7 @@
 
   석사: 심리학과 지각 및 인지 심리 전공
 - 관심 분야: 지각 기반 학습, 스포츠 수행, VR 기반 지각 학습 훈련
-- 사용 프로그램: `Unity`, `Matalb`, `PsychoPy`, `SPSS`, `Python`, `R`, `Jamovi` 등
+- 사용 프로그램: `Unity`, `Matalb`, `PsychoPy`, `SPSS`, `R`, `Jamovi` 등
 
 ---
 
