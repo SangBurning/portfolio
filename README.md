@@ -44,7 +44,7 @@
 ## 📮 Contact
 
 - Email: hse001209@naver.com
-- GitHub: [github.com/YourUsername](https://github.com/YourUsername)
+- GitHub: [github.com/SangBurning](https://github.com/SangBurning)
 
 ---
 
