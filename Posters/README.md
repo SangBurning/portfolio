@@ -1,4 +1,4 @@
-#  [대학생 교우관계 예기불안 척도 개발 및 타당화](./Posters/VSS)
+#  [대학생 교우관계 예기불안 척도 개발 및 타당화](./Posters/대학생 교우관계 예기불안 척도 개발 및 타당화)
 
 #  [May we change the color of the volleyball?](./Posters/VSS)
 
