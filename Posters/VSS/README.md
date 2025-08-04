@@ -7,3 +7,7 @@ Color media colored balls in sports. In the past, volleyball games were played w
 Poster
 
 ![설계 이미지](./VSS2024.png)
+
+
+
+사용 프로그램: Matlab
