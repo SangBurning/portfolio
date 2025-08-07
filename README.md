@@ -19,7 +19,7 @@
 ## 🔗 빠른 바로가기
 
 - [석사 학위 논문: VR 기반 다감각 지각 학습과 스포츠 수행: 골프 퍼팅을 중심으로](./Publications_and_Theses/Master's_Thesis_VR_Putting)
-- [May we change the color of the volleyball?](./Posters/VSS)
+- [VSS: May we change the color of the volleyball?](./Posters/VSS)
 
 ---
 
