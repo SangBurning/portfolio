@@ -43,7 +43,7 @@
 
 ## 📮 Contact
 
-- Email: seungminhan@yonsei.ac.kr
+- Email: h20192144@gamil.com
 - GitHub: [github.com/SangBurning](https://github.com/SangBurning)
 
 ---
