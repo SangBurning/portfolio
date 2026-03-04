@@ -43,7 +43,7 @@
 
 ## 📮 Contact
 
-- Email: hse001209@naver.com
+- Email: seungminhan@yonsei.ac.kr
 - GitHub: [github.com/SangBurning](https://github.com/SangBurning)
 
 ---
