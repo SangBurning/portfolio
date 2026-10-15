@@ -1,53 +1,62 @@
-# ✨ Portfolio
+<div align="center">
 
-이 저장소는 제가 수행한 연구, 발표 자료, 논문 및 포스터를 정리한 포트폴리오입니다. 
-시지각, 지각학습, 스포츠 전문성 및 지각–행동 관계에 관한 연구 성과를 정리하고 있습니다.
+# Seung Min Han
 
+**Ph.D. Student · Sport Psychology**  
+Department of Physical Education · Yonsei University
 
----
+*Visual Perception · Perceptual Learning · Sports Expertise*
 
-## 📂 폴더 안내
+[Research Outputs](#research-outputs) · [Education](#education) · [Research Skills](#research-skills) · [Contact](#contact)
 
-- [`Publications_and_Theses`](./Publications_and_Theses)  
-  → 게재 논문, 석사 및 학사 학위 논문
-
-- [`Posters`](./Posters)  
-  → 국내외 학회 포스터 발표 자료
+</div>
 
 ---
 
-## 🔗 빠른 바로가기
+## About
 
-- [석사 학위 논문: VR 기반 다감각 지각 학습과 스포츠 수행: 골프 퍼팅을 중심으로](./Publications_and_Theses/Master's_Thesis_VR_Putting)
-- [VSS: May we change the color of the volleyball?](./Posters/VSS)
+I am a Ph.D. student in Sport Psychology at Yonsei University, with an academic background in psychology and physical education. My interests center on visual perception, perceptual learning, sports expertise, and the relationship between perception and action.
+
+## Research Interests
+
+`Visual Perception` · `Perceptual Learning` · `Perception–Action Transfer` · `Sports Expertise` · `Biological Motion Perception` · `Multisensory Perception`
+
+## Research Outputs
+
+| Collection | Contents |
+| :-- | :-- |
+| **[Publications & Theses](./Publications_and_Theses/)** | Peer-reviewed publication, master's thesis, and undergraduate thesis |
+| **[Conference Posters](./Posters/)** | Research posters and conference presentations |
+
+**Selected works**
+
+- [Specificity of tilt illusion reduction through perceptual learning (2024)](./Publications_and_Theses/)
+- [Master's thesis · VR-based multisensory perceptual learning and golf putting](./Publications_and_Theses/Master's_Thesis_VR_Putting/)
+- [Conference poster · May we change the color of the volleyball?](./Posters/VSS/)
+
+> This portfolio archives previously conducted research and publicly shareable academic outputs. Ongoing, unpublished study designs and private research code are not included.
+
+## Education
+
+| Degree | Institution | Field |
+| :-- | :-- | :-- |
+| **Ph.D. student** | Yonsei University | Physical Education · Sport Psychology |
+| **Master's degree** | Hallym University | Psychology · Perception and Cognition |
+| **Bachelor's degree** | Hallym University | Psychology and Physical Education |
+
+## Research Skills
+
+| Area | Tools |
+| :-- | :-- |
+| Experimental design & stimulus development | MATLAB, PsychoPy, Unity |
+| Statistics & data analysis | R, SPSS, jamovi, SAS |
+| Neuroimaging analysis | SPM |
+
+## Contact
+
+**Email:** [seungminhan@yonsei.ac.kr](mailto:seungminhan@yonsei.ac.kr)  
+**GitHub:** [SangBurning](https://github.com/SangBurning)
 
 ---
 
-## 🧠 연구 키워드
-
-`시지각`  `지각학습`  `지각–행동 전이`  `스포츠 전문성`  `생물학적 움직임 지각`  `다감각 지각`  `운동 수행`
-
----
-
-## 👤 About Me
-
-- 전공
-  
-  - 학사: 한림대학교 심리학과 · 체육학과
-  - 석사: 한림대학교 심리학과 (지각 및 인지심리 전공)
-  - 박사과정: 연세대학교 체육학과 (스포츠심리학 전공, 재학 중)
-- 관심 분야: 시지각 및 지각학습, 지각–행동 전이, 스포츠 전문성, 생물학적 움직임 지각
-- 실험 및 자극 개발: `MATLAB`, `PsychoPy`, `Unity`
-- 통계 및 데이터 분석: `R`, `SPSS`, `Jamovi`, `SAS`
-- 신경영상 분석: `SPM`
-
----
-
-## 📮 Contact
-
-- Email: seungminhan@yonsei.ac.kr
-- GitHub: [github.com/SangBurning](https://github.com/SangBurning)
-
----
-
-> 📌 본 포트폴리오는 학술적 아카이빙 및 자기 소개용으로 제작되었습니다.  
+<sub>Academic portfolio · Research materials are provided for scholarly reference.</sub>
