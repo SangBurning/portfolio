@@ -1,6 +1,6 @@
 <div align="center">
 
-# Seung Min Han
+# Seungmin Han
 
 **Ph.D. Student · Sport Psychology**  
 Department of Physical Education · Yonsei University
