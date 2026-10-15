@@ -25,14 +25,15 @@ I am a Ph.D. student in Sport Psychology at Yonsei University, with an academic 
 
 | Collection | Contents |
 | :-- | :-- |
-| **[Publications & Theses](./Publications_and_Theses/)** | Peer-reviewed publication, master's thesis, and undergraduate thesis |
-| **[Conference Posters](./Posters/)** | Research posters and conference presentations |
+| **[01 · Publications](./01_Publications/)** | Peer-reviewed journal articles |
+| **[02 · Theses](./02_Theses/)** | Master's and undergraduate theses |
+| **[03 · Conference Presentations](./03_Conference_Presentations/)** | Posters and academic presentations |
 
 **Selected works**
 
-- [Specificity of tilt illusion reduction through perceptual learning (2024)](./Publications_and_Theses/)
-- [Master's thesis · VR-based multisensory perceptual learning and golf putting](./Publications_and_Theses/Master's_Thesis_VR_Putting/)
-- [Conference poster · May we change the color of the volleyball?](./Posters/VSS/)
+- [Specificity of tilt illusion reduction through perceptual learning (2024)](./01_Publications/)
+- [Master's thesis · VR-based multisensory perceptual learning and golf putting](./02_Theses/)
+- [Conference poster · May we change the color of the volleyball?](./03_Conference_Presentations/)
 
 > This portfolio archives previously conducted research and publicly shareable academic outputs. Ongoing, unpublished study designs and private research code are not included.
 
