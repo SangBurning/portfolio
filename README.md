@@ -42,7 +42,7 @@ I am a Ph.D. student in Sport Psychology at Yonsei University, with an academic 
 | :-- | :-- | :-- |
 | **Ph.D. student** | Yonsei University | Physical Education · Sport Psychology |
 | **Master's degree** | Hallym University | Psychology · Perception and Cognition |
-| **Bachelor's degree** | Hallym University | Psychology (심리학과) · Physical Education (체육학과) |
+| **Bachelor's degree** | Hallym University | Psychology  · Physical Education  |
 
 ## Research Skills
 
